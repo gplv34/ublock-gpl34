@@ -1,3 +1,7 @@
+*://*.yumpu.com/*
+*://*.manualmachine.com/*
+*://*.manualzz.com/*
+*://*.quora.com/*
 *://*.10fragrances.com/*
 *://*.10mac.com/*
 *://*.10scopes.com/*
