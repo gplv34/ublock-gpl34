@@ -1,3 +1,11 @@
+*://*.techschematic.com/*
+*://*.aboutamazon.com.au/*
+*://*.musicindustryhowto.com/*
+*://*.artistandproducer.com/*
+*://*.adorama.com/*
+*://*.acousticnature.com/*
+*://*.audiosorcerer.com/*
+*://*.popsci.com/*
 *://*.yumpu.com/*
 *://*.manualmachine.com/*
 *://*.manualzz.com/*
